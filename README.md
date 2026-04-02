@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🔐 Security Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Building+cool+things+with+code;Python+%7C+JavaScript+%7C+Security;Always+learning+%26+creating..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Building+cool+things+with+code;Python+%7C+JavaScript+%7C+Security;Always+learning+%26+creating..." />
 </p>
 
 ---
@@ -12,8 +12,8 @@
 
 - 💻 I build **bots, web apps, and desktop tools**
 - 🔥 Passionate about **Web Security & AI**
-- ⚡ Working mostly with **Python, FastAPI, PyQt, JS**
-- 🧪 Love exploring new tech & breaking things (ethically 😄)
+- ⚡ Working with **Python, FastAPI, PyQt, JS**
+- 🧪 Exploring tech & security every day
 
 ---
 
@@ -25,18 +25,12 @@
 
 ---
 
-### 🏆 Achievements
+### 🔥 Featured Project
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aily-dev&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aily-dev/aily-dev/output/github-contribution-grid-snake.svg" />
+  <a href="https://github.com/aily-dev/aegisscan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aily-dev&repo=aegisscan&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
