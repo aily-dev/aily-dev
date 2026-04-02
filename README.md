@@ -25,11 +25,26 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aily-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aily-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aily-dev&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aily-dev/aily-dev/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aily-dev&label=Profile+Views&color=00ffaa&style=flat" />
 </p>
 
 ---
@@ -37,7 +52,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://t.me/bit1k">
+  <a href="https://t.me/iliya_username1">
     <img src="https://img.shields.io/badge/Telegram-00FFAA?style=for-the-badge&logo=telegram&logoColor=black" />
   </a>
 </p>
